@@ -12,3 +12,4 @@ garantindo que fossem referenciadas corretamente a partir do index.html.
 
 Aprendizado:
 Sempre conferir o caminho relativo dos arquivos ao usar tags <img> e <link>.
+
