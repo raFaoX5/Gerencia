@@ -7,8 +7,6 @@ Projeto desenvolvido para a Atividade 1 da disciplina, com o objetivo de pratica
 Um site simples em HTML, CSS e JavaScript que apresenta uma página de estudante, com imagens, estilos e uma pequena interação em JS.
 
 ## Estrutura do repositório
-
-```
 .
 ├── index.html      # Página principal
 ├── sobre.html       # Página "Sobre"
