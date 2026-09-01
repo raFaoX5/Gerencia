@@ -1,0 +1,15 @@
+Registro de erro - Atividade 1
+================================
+
+Erro encontrado:
+As imagens não apareciam no index.html mesmo depois de adicionadas na pasta img/.
+
+Causa:
+O caminho utilizado no atributo src estava incorreto (faltava o prefixo "img/").
+
+Solução:
+Corrigido o caminho das imagens para "img/logo.png", "img/banner.png" e "img/icon.png",
+garantindo que fossem referenciadas corretamente a partir do index.html.
+
+Aprendizado:
+Sempre conferir o caminho relativo dos arquivos ao usar tags <img> e <link>.
