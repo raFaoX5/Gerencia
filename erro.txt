@@ -1,5 +1,4 @@
 Registro de erro - Atividade 1
-================================
 
 Erro encontrado:
 As imagens não apareciam no index.html mesmo depois de adicionadas na pasta img/.
